@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: OnePlus 7T Pro
+Device maintainer: Runds
+
+===== 2026-05-16 =====
+
+• The first version
+• 首个版本
