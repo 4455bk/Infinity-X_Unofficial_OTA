@@ -3,7 +3,13 @@ Build type: Monthly
 Device: OnePlus 7 Pro
 Device maintainer: Runds
 
-===== 2026-05-16 =====
+===== 2026-05-17 =====
 
-• The first version
-• 首个版本
+• Adjust status bar burn-in protection to 1dp
+• Change gallery to Google Gallery Lite
+• Change number of desktop icon rows to 5
+• Update ReSukiSU to 34900
+• 调整状态栏烧屏保护为 1dp
+• 图库改为谷歌图库精简版
+• 桌面图标行数改成 5
+• ReSukiSU 更新到 34900
