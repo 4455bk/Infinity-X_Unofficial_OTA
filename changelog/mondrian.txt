@@ -1,5 +1,0 @@
-- Source Changelog: https://t.me/ProjectInfinityX/1690
-
-Device:
-- Add more missing sepolicy
-- Fix issues with the new Dolby

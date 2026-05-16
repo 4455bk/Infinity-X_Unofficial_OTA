@@ -1,8 +1,0 @@
-Device: OnePlus 11 5G
-Device code name : salami
-Device maintainer: Brian_OP13
-
-05/10/2026
-==========
-- Synced with latest source
-- Initial official release

@@ -1,6 +1,0 @@
-Date - 08/05/2026
-=================
-• Version bump 3.10
-• May Sercurity (rom)
-• Synced with Latest Source Changes
-• Source changelog (https://t.me/ProjectInfinityX/1880)

@@ -1,4 +1,0 @@
-Source Changelog (https://t.me/ProjectInfinityX/1880)
-
-Device Changelog:
-- Fixed different blur intensity level when unlocking device

@@ -1,2 +1,0 @@
-- Source changelog (https://t.me/ProjectInfinityX/1847)
-- Merge kernel 4.19.325-cip130-st14 patches

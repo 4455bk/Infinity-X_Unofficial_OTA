@@ -1,9 +1,0 @@
-Source Changelog:
-• https://t.me/ProjectInfinityX/1877
-• https://github.com/ProjectInfinity-X
-
-Device side:
-• dolby: Enable volume leveler for Dynamic profile
-• dolby: Forcefully Enable bass-enhancer
-• Driver Updated
-• Kernel Updated

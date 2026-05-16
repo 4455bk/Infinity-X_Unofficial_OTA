@@ -1,4 +1,0 @@
-Date - 04/03/2026
-=================
-- Kernel updated
-- KernelSU-Next v3.1.0 with SUSFS Included
