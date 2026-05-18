@@ -3,13 +3,15 @@ Build type: Monthly
 Device: RedMagic 9 Pro
 Device maintainer: Runds
 
-===== 2026-05-17 =====
+===== 2026-05-18 =====
 
-• Adjust status bar burn-in protection to 1dp
-• Change gallery to Google Gallery Lite
-• Change number of desktop icon rows to 5
-• Update ReSukiSU to 34900
-• 调整状态栏烧屏保护为 1dp
-• 图库改为谷歌图库精简版
-• 桌面图标行数改成 5
-• ReSukiSU 更新到 34900
+• Sync the latest source code.
+• Refactor the dynamic bar lyrics display logic. When playing, only show the lyrics without showing the song title and artist; when paused, show the song title and artist.
+• Increase the dynamic bar display width and make lyrics adaptive.
+• Add a delay when switching between lyrics and song title during playback to avoid flickering
+• Update ReSukiSU to 34903. Support Selinux hide feature
+• 同步最新源码
+• 重构动态栏歌词显示逻辑。播放时只显示歌词而不显示歌名和歌手，暂停时才显示歌名和歌手
+• 增加播放时歌词与歌名的切换延迟，避免闪烁
+• 增大动态栏显示宽度并自适应歌词
+• ReSukiSU 更新到 34903,支持 Selinux 隐藏功能
