@@ -3,15 +3,107 @@ Build type: Monthly
 Device: OnePlus 7 Pro
 Device maintainer: Runds
 
-===== 2026-05-18 =====
+===== 2026-06-15 =====
 
+Changelog for @ProjectInfinityX v3.11 Release:
+
+- Complete Android 16 ROM Screenshots  (https://t.me/ProjectInfinityX/1697?single)
+
+NOTE: As always the author’s name is listed at the end of line for each change (wherever applicable) to give proper credit for their respective work used in our project. A big thanks to all the wonderful authors!
+If you believe you are the original author of any change mentioned here, or if you notice any incorrect credit mention, please feel free to DM @tejas101k for re-verification and correction.
+
+- Merged June 2026 security patch
+- Add recents panel styles (OOS, iOS, Scale etc.) (author: kamikaonashi, elpaablo, zylhdrXP)
+- Switch to inbuilt trickystore implementation for playintegrityfix (https://t.me/ProjectInfinityX/1881) (author: rmp22, Dakkshesh, reveny, joeyhuab, neobuddy89)
+- Add app sandbox, private file vault and custom password app lock feature replacing traditional applock and hideapplist features (author: rmp22, Saikrishna1504)
+- Bring back statusbar swipe brightness control feature and add support for lockscreen statusbar too (author: neobuddy89, ergdevops)
+- Add peek AOD feature to briefly show ambient display for a few seconds after screen off (author: shutter-cat)
+- Fixed no transition to homescreen when unlocked with fingerprint in AOD
+- Fix small (ill-formed) wifi/network icons in theme styles (author: rmp22)
+- Make app icon shapes work in appdrawer even when themed icons disabled (author: nnn950711)
+- Fix extremely low signal strength display for 5g network connection (author: rajdeep-3305)
+- Increase connectivity coverage for LTE+
+- Bluetooth connectivity improvements
+- Add new lockscreen clockstyles (author: Ghosuto)
+- Improve new lockscreen clockstyles layouts and preview (author: neobuddy89)
+- Fix full screen apps feature on tablets
+- Allow using split shade qs feature (separate qs/notification panel) on all qs panel styles (author: TwistedVision518 for certain improvements)
+- Improve app opening animations like Stock roms (author: rmp22)
+- Add recents panel app hold gestures feature to open in freeform/split screen (author: zylhdrXP)
+- Fix default google sans flex font characteristics (rounded edges and correct variable weights) (author: joeyhuab)
+- Apply drag lock to dynamic bar expanded media panel seekbar also use waveform seekbar style with refinements (author: Ghosuto, neobuddy89)
+- Fix some music apps shuffle button icon in dynamic bar expanded media panel
+- Improve clock styles and AOD view
+- Improvements for QS Panel smoothness under heavy load
+- Enable power button assistant invocation effect (author: ralph950412)
+- Add custom carrier text and location customization (author: Claymore1297, neobuddy89)
+- Add partial screenshot as custom action for gestures (author: luk1337)
+- Re-design freeform window to pill based (tap pill to to back, swipe bottom to top to close, top to bottom to open app) (author: zylhdrXP)
+- Add feature to auto hide sidebar pill when gamespace active (author: kenway214)
+- Remove some useless bloated fonts
+- Fixed ota updates that got broke for some A only devices in first 3.10 release 
+- Fixed awkward search icon placement in app drawer searchbar when homescreen searchbar disabeld
+- Preserve locked rotation during screen state changes (author: ArKT-7)
+- Fixed no haptics on extended volume panel style when changing volume from physical keys, also make expanded volume panel style follow volume panel timeout settings
+- Bring back system animation styles from v3.5, along with the fixed-style MediaTek transition animations as a selectable option.
+- Improve UDFPS unlocking speed and overall system speed when device unlocked
+
+/* I continue to extend my heartfelt gratitude to the amazing ServerHive team and its owner for being an incredible company and for his continued support that helps keep  @ProjectInfinityX going strong. 💛 */
+
+@ProjectInfinityX v3.11 版本更新日志：
+
+- 完整的 Android 16 ROM 界面截图 (https://t.me/ProjectInfinityX/1697?single)
+
+注意：一如既往，每项更改末尾都标注了原作者姓名（如适用），以对其在我们项目中使用的各自工作给予适当致谢。衷心感谢所有出色的作者！
+如果您认为自己是这里提到的任何更改的原始作者，或者注意到任何不正确的署名，请随时私信 @tejas101k 进行重新核实和更正。
+
+- 合并 2026 年 6 月安全补丁
+- 添加最近任务面板样式（OOS、iOS、缩放等）（作者：kamikaonashi、elpaablo、zylhdrXP）
+- 切换到内置的 trickystore 实现以修复 Play Integrity 问题 (https://t.me/ProjectInfinityX/1881)（作者：rmp22、Dakkshesh、reveny、joeyhuab、neobuddy89）
+- 添加应用沙盒、私密文件保险库和自定义密码应用锁功能，取代传统的应用锁和隐藏应用列表功能（作者：rmp22、Saikrishna1504）
+- 恢复状态栏滑动调节亮度功能，并增加对锁屏状态栏的支持（作者：neobuddy89、ergdevops）
+- 添加息屏显示预览（Peek AOD）功能，在屏幕关闭后短暂显示环境显示几秒钟（作者：shutter-cat）
+- 修复在 AOD 下使用指纹解锁时无过渡动画直接返回主屏幕的问题
+- 修复主题样式中 Wi-Fi/网络图标显示不正常的问题（作者：rmp22）
+- 使应用抽屉中的应用图标形状在禁用主题图标时也能生效（作者：nnn950711）
+- 修复 5G 网络连接下信号强度显示过低的问题（作者：rajdeep-3305）
+- 增加 LTE+ 的连接覆盖范围
+- 蓝牙连接改进
+- 添加新的锁屏时钟样式（作者：Ghosuto）
+- 改进新锁屏时钟样式的布局和预览（作者：neobuddy89）
+- 修复平板电脑上的全屏应用功能
+- 允许在所有快捷设置面板样式上使用分离式快捷设置面板功能（将快捷设置面板和通知面板分开）（作者：TwistedVision518 进行了部分改进）
+- 改善应用打开动画，使其更接近原生系统（作者：rmp22）
+- 添加最近任务面板长按应用手势功能，以在自由窗口/分屏模式中打开（作者：zylhdrXP）
+- 修复默认 Google Sans Flex 字体的特性（圆角边缘和正确的可变字重）（作者：joeyhuab）
+- 对动态栏展开的媒体面板的拖动锁定应用拖拽锁，同时使用波形进度条样式并加以改进（作者：Ghosuto、neobuddy89）
+- 修复部分音乐应用在动态栏展开媒体面板中随机播放按钮图标显示问题
+- 改进时钟样式和 AOD 视图
+- 改进重负载下快捷设置面板的流畅度
+- 启用电源键助手调用效果（作者：ralph950412）
+- 添加自定义运营商文本及其位置自定义功能（作者：Claymore1297、neobuddy89）
+- 添加区域截屏作为手势的自定义操作（作者：luk1337）
+- 重新设计自由窗口为药丸式（点按药丸返回，从底部向上滑动关闭，从顶部向下滑动打开应用）（作者：zylhdrXP）
+- 添加当游戏空间激活时自动隐藏侧边栏药丸的功能（作者：kenway214）
+- 移除一些无用的臃肿字体
+- 修复在 v3.10 首个版本中部分仅支持 A 分区设备的 OTA 更新功能损坏的问题
+- 修复当主屏幕搜索栏禁用时，应用抽屉搜索栏中搜索图标位置尴尬的问题
+- 在屏幕状态变化时保持锁定的屏幕旋转（作者：ArKT-7）
+- 修复使用扩展音量面板样式时，通过物理按键调节音量无触感反馈的问题；同时使扩展音量面板样式遵循音量面板超时设置
+- 从 v3.5 版本恢复系统动画样式，同时将固定样式的联发科过渡动画作为可选项加入
+- 提升 UDFPS 解锁速度以及设备解锁后的整体系统速度
+
+/* 我继续衷心感谢出色的 ServerHive 团队及其负责人，他们是一家了不起的公司，其持续的支持帮助 @ProjectInfinityX 保持强劲发展。💛 */
+
+Others:
+其他：
 • Sync the latest source code.
-• Refactor the dynamic bar lyrics display logic. When playing, only show the lyrics without showing the song title and artist; when paused, show the song title and artist.
-• Increase the dynamic bar display width and make lyrics adaptive.
-• Add a delay when switching between lyrics and song title during playback to avoid flickering
-• Update ReSukiSU to 34903. Support Selinux hide feature
+• Ported the system-wide Pop-Up mini window and fixed the mini window settings feature, supporting activation via desktop shortcuts, recent tasks panel shortcuts, and in-app upward swipe gestures (took me a lot of time).
+• Kernel code updates.
+• Updated ReSukiSU to version 34972/2.
+• Since ReSukiSU no longer maintains KPM functionality, KPM is no longer supported.
 • 同步最新源码
-• 重构动态栏歌词显示逻辑。播放时只显示歌词而不显示歌名和歌手，暂停时才显示歌名和歌手
-• 增加播放时歌词与歌名的切换延迟，避免闪烁
-• 增大动态栏显示宽度并自适应歌词
-• ReSukiSU 更新到 34903,支持 Selinux 隐藏功能
+• 移植系统级 Flyme 小窗并修复小窗设置功能，支持桌面 shortcut 触发、最近任务面板 shortcut 触发、应用内上划手势触发 (花费了我大量时间)
+• 内核代码更新
+• ReSukiSU 更新到 34972/2
+• 由于 ReSukiSU 不再维护 KPM 功能，所以不再支持 KPM
