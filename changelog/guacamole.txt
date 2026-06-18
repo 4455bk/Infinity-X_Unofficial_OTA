@@ -3,7 +3,7 @@ Build type: Monthly
 Device: OnePlus 7 Pro
 Device maintainer: Runds
 
-===== 2026-06-15 =====
+===== 2026-06-18 =====
 
 Changelog for @ProjectInfinityX v3.11 Release:
 
@@ -97,13 +97,19 @@ If you believe you are the original author of any change mentioned here, or if y
 
 Others:
 其他：
-• Sync the latest source code.
-• Ported the system-wide Pop-Up mini window and fixed the mini window settings feature, supporting activation via desktop shortcuts, recent tasks panel shortcuts, and in-app upward swipe gestures (took me a lot of time).
-• Kernel code updates.
-• Updated ReSukiSU to version 34972/2.
-• Since ReSukiSU no longer maintains KPM functionality, KPM is no longer supported.
+• Synced latest source code
+• Fixed crash in Alipay chat interface
+• Fixed issue where QQ emoji favorites could not be read
+• Revised the dynamic lyrics bar logic again: removed the delayed switching mechanism; now only shows lyrics during playback, completely resolving the issue of unintentionally switching to the song title
+• Added more Chinese localization
+• Updated kernel code
+• Updated ReSukiSU to 34984/2
+• Synced latest Susfs code
 • 同步最新源码
-• 移植系统级 Flyme 小窗并修复小窗设置功能，支持桌面 shortcut 触发、最近任务面板 shortcut 触发、应用内上划手势触发 (花费了我大量时间)
+• 修复支付宝聊天界面崩溃
+• 修复 QQ 表情收藏无法读取
+• 动态栏歌词逻辑再次修改，去掉延迟切换机制，播放时只显示歌词，彻底解决无故切换到歌名的问题
+• 汉化补充
 • 内核代码更新
-• ReSukiSU 更新到 34972/2
-• 由于 ReSukiSU 不再维护 KPM 功能，所以不再支持 KPM
+• ReSukiSU 更新到 34984/2
+• 同步最新 Susfs 代码
