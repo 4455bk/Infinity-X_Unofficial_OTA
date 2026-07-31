@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.11-guacamole-18.06.2026-GAPPS-UNOFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x-unofficial/files/guacamole/16/gapps/Project_Infinity-X-3.11-guacamole-18.06.2026-GAPPS-UNOFFICIAL.zip",
-			"timestamp": 1781795952,
-			"md5": "605e9b87a086a902df8716752864fd68",
-			"size": 1710319535,
-			"version": "3.11"
+			"filename": "Project_Infinity-X-3.12-guacamole-31.07.2026-GAPPS-UNOFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x-unofficial/files/guacamole/16/gapps/Project_Infinity-X-3.12-guacamole-31.07.2026-GAPPS-UNOFFICIAL.zip",
+			"timestamp": 1785483637,
+			"md5": "1830a7dcf89cd7265404ac1e8c6ea30b",
+			"size": 1738048969,
+			"version": "3.12"
 		}
 	]
 }
